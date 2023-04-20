@@ -9,13 +9,13 @@
 
 - I'm 🧐 looking forward to align our 🤝 goals concerning **🔬🧬🤖 Multidisciplinary Science 🧪🔭🧲**
 
-- 🗄️ Some about my involved projects at [https://andutta.org/#hook2](https://andutta.org/#hook2)
+- 🗄️ Some about my involved projects at [projects](https://andutta.org/#hook2)
 
-- 🆘 Some about my external support at [https://meta.wikimedia.org/wiki/User:Fpa1981](https://meta.wikimedia.org/wiki/User:Fpa1981)
+- 🆘 Some about my external support at [wikimedia-profile](https://meta.wikimedia.org/wiki/User:Fpa1981)
 
-- 🏡 Some information about me at **https://andutta.org**
+- 🏡 Some information about me at [website](https://andutta.org)
 
-- 📄 Some about my background at **https://andutta.org/#hook5**
+- 📄 Some about my background at [education](https://andutta.org/#hook5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

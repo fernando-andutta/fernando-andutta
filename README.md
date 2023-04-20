@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">Hi 👋, I'm Fernando ANDUTTA</h1>
+<h1 align="center">Hi 👋, I'm Fernando Pinheiro ANDUTTA</h1>
 <h3 align="center">A multi-spectrum-logical-developer (MSLD).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernando-andutta" alt="fernando-andutta" /></a> </p>

@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernando-andutta" alt="fernando-andutta" /></a> </p>
 
-- I'm currently coding 👨‍💻 on [enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
+- I'm currently 👨‍💻 coding on [🦖 enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 
 - 📫 Reach me at **fernando.pinheiro.andutta@gmail.com**
 
-- I'm looking 🧐 forward to align our goals 🤝 concerning **🔬🧬🤖 Multidisciplinary Science 🧪🔭🧲**
+- I'm 🧐 looking forward to align our 🤝 goals concerning **🔬🧬🤖 Multidisciplinary Science 🧪🔭🧲**
 
 - 🗄️ Some about my involved projects at [https://andutta.org/#hook2](https://andutta.org/#hook2)
 

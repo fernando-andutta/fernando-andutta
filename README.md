@@ -13,7 +13,7 @@
 
 - 🆘 Some about my external support at [wikimedia-profile](https://meta.wikimedia.org/wiki/User:Fpa1981)
 
-- 🏡 Some information about me at [website](https://andutta.org)
+- 🏡 Some information about me at [andutta.org](https://andutta.org)
 
 - 📄 Some about my background at [education](https://andutta.org/#hook5)
 

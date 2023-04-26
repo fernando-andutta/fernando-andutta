@@ -1,3 +1,7 @@
+<p align="left">
+<a href="https://www.andutta.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ORCID-0000-0002-8361-1063.jpg/193px-ORCID-0000-0002-8361-1063.jpg" alt="[https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/](https://www.andutta.org/)" height="40" width="30" /></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Fernando Pinheiro ANDUTTA</h1>
 <h3 align="center">A multi-spectrum-logical-developer (MSLD).</h3>
 
@@ -19,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/480px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/480px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

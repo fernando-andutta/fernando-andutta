@@ -19,7 +19,7 @@
 
 - 🏡 Some information about me at [andutta.org](https://andutta.org)
 
-- 📄 Some about my background at [education](https://andutta.org/#hook5)
+- 🎓 Some about my background at [education](https://andutta.org/#hook5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

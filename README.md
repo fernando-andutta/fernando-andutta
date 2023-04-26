@@ -3,8 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/fernando-andutta)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernando-andutta" alt="fernando-andutta" /></a> </p>
-
 - I'm currently 👨‍💻 coding on [🦖 enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 
 - 📫 Reach me at **fernando.pinheiro.andutta@gmail.com**

@@ -15,7 +15,7 @@
 
 - 🗄️ Some about my involved projects at [projects](https://andutta.org/#hook2)
 
-- 🆘 Some about my external support at [wikimedia-profile](https://meta.wikimedia.org/wiki/User:Fpa1981)
+- 💗 Some about my external support at [wikimedia-profile](https://meta.wikimedia.org/wiki/User:Fpa1981)
 
 - 🏡 Some information about me at [andutta.org](https://andutta.org)
 

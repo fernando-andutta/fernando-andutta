@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.andutta.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ORCID-0000-0002-8361-1063.jpg/193px-ORCID-0000-0002-8361-1063.jpg" alt="[https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/](https://www.andutta.org/)" height="120" width="94" /></a>
+<a href="https://www.andutta.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/99/City_AI_by_Discoperi.gif" alt="[https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/](https://www.andutta.org/)" height="50" width="150" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fernando Pinheiro ANDUTTA</h1>

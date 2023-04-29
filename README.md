@@ -2,7 +2,7 @@
 <a href="https://www.andutta.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/WikiTeam_1%2B3_GIF_logo.gif" alt="team-coding" height="150" width="150" /></a>
 </p>
 
-<h1 align="center">Hi <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pivotani2.gif" alt="coding" height="50" width="50" />, I'm Fernando Pinheiro ANDUTTA</h1>
+<h1 align="center">Hi there <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pivotani2.gif" alt="coding" height="50" width="50" />, I'm Fernando Pinheiro ANDUTTA</h1>
 <h3 align="center">A multi-spectrum-logical-developer (MSLD).</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/fernando-andutta)

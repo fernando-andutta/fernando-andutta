@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/fernando-andutta)
 
-- I'm currently <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Digital_rain_animation_big_letters_clear.gif" alt="[coding]" height="20" width="20" /> coding on [🦖 enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
+- I'm currently <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Digital_rain_animation_big_letters_clear.gif" alt="[coding]" height="30" width="30" /> coding on [🦖 enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 
 - 📫 Reach me at **fernando.pinheiro.andutta@gmail.com**
 

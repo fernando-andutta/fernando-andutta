@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?text=logical!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)
 
-- <h1 align="center">Hi there <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pivotani2.gif" alt="coding" height="50" width="50" />, I'm Fernando Pinheiro ANDUTTA</h1>
+<h1 align="center">Hi there <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pivotani2.gif" alt="coding" height="50" width="50" />, I'm Fernando Pinheiro ANDUTTA</h1>
 
 - I'm currently <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Digital_rain_animation_big_letters_clear.gif" alt="coding" height="30" width="30" /> coding on [🦎enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 

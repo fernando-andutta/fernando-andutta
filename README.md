@@ -32,7 +32,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/fernando-andutta)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&locale=en" alt="fernando-andutta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&locale=en&theme=vue" alt="fernando-andutta" /></p>
 
 ![Andutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&theme=vue)
 

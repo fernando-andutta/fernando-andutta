@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?text=It%20is%20only%20logical!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=header)
+![header](https://capsule-render.vercel.app/api?text=It%20is%20only&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=header)
 
 <p align="center">
 <a href="https://www.andutta.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/WikiTeam_1%2B3_GIF_logo.gif" alt="team-coding" height="150" width="150" /></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?text=It%20is%20only%20logical!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)
+![header](https://capsule-render.vercel.app/api?text=logical!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)
 
 <h1 align="center">Hi there <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pivotani2.gif" alt="coding" height="50" width="50" />, I'm Fernando Pinheiro ANDUTTA</h1>
 

@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&locale=en&theme=transparent" alt="fernando-andutta" /></p>
 
-![]([https://placehold.it/400x90/ff6600/000](https://upload.wikimedia.org/wikipedia/commons/5/5f/LOGO_WIKILETTERS_TRANSPARENT_BACKGROUND.png)?text=WARNING!)
+![]([https://placehold.it/400x90/ff6600/000](https://upload.wikimedia.org/wikipedia/commons/5/5f/LOGO_WIKILETTERS_TRANSPARENT_BACKGROUND.png?text=WARNING!)
 
 ![footer](https://capsule-render.vercel.app/api?text=Building%20Better%20Science!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)

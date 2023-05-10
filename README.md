@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=It%20is%20only&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=header)
 
-<a href="https://www.andutta.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/WikiTeam_1%2B3_GIF_logo.gif" alt="team-coding" height="150" width="150" /></a>
+<p align="center">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/WikiTeam_1%2B3_GIF_logo.gif" alt="team-coding" height="150" width="150" /></a>
+</p>
 
 ![header](https://capsule-render.vercel.app/api?text=logical!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)
 

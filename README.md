@@ -34,5 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&locale=en" alt="fernando-andutta" /></p>
 
+![Andutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&theme=radical)
+
 
 ![footer](https://capsule-render.vercel.app/api?text=Building%20Better%20Science!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)

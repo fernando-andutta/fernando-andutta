@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=It%20is%20only&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=header)
+![header](https://capsule-render.vercel.app/api?text=It%20is%20only%20logical!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=header)
 
 <p align="center">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/WikiTeam_1%2B3_GIF_logo.gif" alt="team-coding" height="150" width="150" /></a>
@@ -35,3 +35,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/fernando-andutta)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-andutta&show_icons=true&locale=en" alt="fernando-andutta" /></p>
+
+
+![header](https://capsule-render.vercel.app/api?text=Building%20Better%20Science!&fontSize=40&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120&section=footer)

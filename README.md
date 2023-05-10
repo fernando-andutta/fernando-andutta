@@ -5,9 +5,6 @@
 </p>
 
 <h1 align="center">Hi there <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pivotani2.gif" alt="coding" height="50" width="50" />, I'm Fernando Pinheiro ANDUTTA</h1>
-```html
-   <h1 style="color:blue;">This is a heading</h1>
-```
 
 - I'm currently <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Digital_rain_animation_big_letters_clear.gif" alt="coding" height="30" width="30" /> coding on [🦎enKORE](https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=It%20is%20only%20logical!&fontColor=333333&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120)
+![header](https://capsule-render.vercel.app/api?text=It%20is%20only%20logical!&fontColor=333333&fontSize=40&animation=blinking&color=0:27aa65,50:3366bb,100:cc0000&height=120)
 <p align="center">
 <a href="https://www.andutta.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/WikiTeam_1%2B3_GIF_logo.gif" alt="team-coding" height="150" width="150" /></a>
 </p>

@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/240px-Linkedin_icon.svg.png" alt="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" height="40" width="40" /></a> OR
+<a href="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/240px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" height="40" width="40" /></a> OR
 <a href="https://www.linkedin.com/in/fernando-andutta-5344a8125/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/LinkedIn_logo_In-Red.png/240px-LinkedIn_logo_In-Red.png" alt="https://www.linkedin.com/in/fernando-andutta-5344a8125/" height="40" width="40" /></a>
 </p>
  

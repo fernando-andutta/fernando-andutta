@@ -28,7 +28,9 @@
 
 <h3 align="left">Preferred OS:</h3>
 <p align="left">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo-ubuntu-colors-red-green-blue-WMF_-_transparent_round_backgroud.png/480px-Logo-ubuntu-colors-red-green-blue-WMF_-_transparent_round_backgroud.png" alt="coding" height="80" width="80" />
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo-ubuntu-colors-red-green-blue-WMF_-_transparent_round_backgroud.png/480px-Logo-ubuntu-colors-red-green-blue-WMF_-_transparent_round_backgroud.png" alt="coding" height="80" width="80" />
+</a>
  </p>
  
 <h3 align="left">Languages and Tools:</h3>

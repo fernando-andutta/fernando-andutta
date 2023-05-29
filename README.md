@@ -20,6 +20,11 @@
 
 - 🎓 Some about my background at [education](https://andutta.org/#hook5)
 
+<h3 align="left">Preferred OS:</h3>
+<p align="left">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo-ubuntu-colors-red-green-blue-WMF_-_transparent_round_backgroud.png/480px-Logo-ubuntu-colors-red-green-blue-WMF_-_transparent_round_backgroud.png" alt="coding" height="50" width="50" />
+ </p>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/240px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/fernando-pinheiro-andutta-35aa50171/" height="40" width="40" /></a> OR
